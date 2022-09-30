@@ -3,4 +3,9 @@
 </div>
 
 ## 🚀 Your schedule, made easy.
-Jupiter allows you to make your schedule easy.
+Jupiter allows you to track your schedule and see your upcoming assignments
+
+## 📦 Features
+- Block schedule management
+- View upcoming assignments via Google Classroom API
+- Connect your Google account seamlessly
