@@ -10,3 +10,6 @@
 - Block schedule management
 - View upcoming assignments via Google Classroom API
 - Connect your Google account seamlessly
+
+### 🚧 Construction
+This project is currently under construction and isn't looking for outside contributors.
