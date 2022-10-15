@@ -4,7 +4,7 @@
 
 
 ## 🚀 Your schedule, made easy.
-Jupiter allows you to track your schedule and see your upcoming assignments
+[Jupiter](https://jupiterapp.cf) allows you to track your schedule and see your upcoming assignments
 
 ## 📦 Features
 - Block schedule management
