@@ -2,6 +2,11 @@
   <img src="https://user-images.githubusercontent.com/99760654/195631288-80df3c0c-d33b-4f11-9bce-2f189f18c0e7.png" width="900" />
 </div>
 
+## 🚧 Construction
+
+This project has been abandoned
+##
+##
 
 ## 🚀 Your schedule, made easy.
 [Jupiter](https://jupiterapp.cf) allows you to track your schedule and see your upcoming assignments
